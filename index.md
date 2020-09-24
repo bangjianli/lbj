@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+## Bang-Jian Li(李帮建)
 
-You can use the [editor on GitHub](https://github.com/bangjianli/lbj.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+厦门彼格科技有限公司
+华侨大学
+厦门宏发电声股份有限公司
+南京传仕重工科技有限公司
+E-mail:bangjianli@163.com
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### 个人简介
 
-```markdown
-Syntax highlighted code block
+李帮建现供职于厦门彼格科技有限公司。于2012年获得河海大学学士学位，于2015年获东南大学硕士学位，于2019年获上海交通大学博士学位。已在国内外期刊或会议上发表近10篇学术论文，主要包括OLEN,MST,oe,et等，另有1项发明专利获得授权。目前担任OLEN等国内外期刊审稿人。曾获国家奖学金等。
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/bangjianli/lbj.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
